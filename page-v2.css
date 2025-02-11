@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Montserrat-Black;
+    src: url(/fonts/Montserrat-Black.ttf);
+}
+
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url(/fonts/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Montserrat-SemiBoldItalic;
+    src: url(/fonts/Montserrat-SemiBoldItalic.ttf);
+}
